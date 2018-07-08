@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.net - HW 5 - Linq", "Ado.net - HW 5 - Linq\Ado.net - HW 5 - Linq.csproj", "{8DEAE4EE-49CC-4B9B-8123-A2586605D074}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "Ado.net - HW 5 - Linq\task1.csproj", "{8DEAE4EE-49CC-4B9B-8123-A2586605D074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2, task3", "task2\task2, task3.csproj", "{22B7E983-A150-4686-B060-7C40F07E4B29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8DEAE4EE-49CC-4B9B-8123-A2586605D074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DEAE4EE-49CC-4B9B-8123-A2586605D074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DEAE4EE-49CC-4B9B-8123-A2586605D074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B7E983-A150-4686-B060-7C40F07E4B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B7E983-A150-4686-B060-7C40F07E4B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B7E983-A150-4686-B060-7C40F07E4B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B7E983-A150-4686-B060-7C40F07E4B29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
